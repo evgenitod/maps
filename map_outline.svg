@@ -157,6 +157,60 @@
         <text x="905" y="405" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ВЕЛИКО ТЪРНОВО</text>
       </g>
       
+        <g>
+        <circle cx="945" cy="505" r="1" fill="#fff" class="veliko_tyrnovo"></circle>
+        <text x="945" y="505" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ЕЛЕНА@@@</text>
+      </g>
+    
+     <g>
+        <circle cx="1283" cy="560" r="1" fill="#fff" class="karnobat"></circle>
+        <text x="1283" y="560" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">КАРНОБАТ</text>
+      </g>
+    
+        <g>
+        <circle cx="1269" cy="334" r="1" fill="#fff" class="shumen"></circle>
+        <text x="1269" y="334" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ШУМЕН</text>
+      </g>
+    
+       <g>
+        <circle cx="1148" cy="241" r="1" fill="#fff" class="razgrad"></circle>
+        <text x="1148" y="241" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">РАЗГРАД</text>
+      </g>
+    
+      <g>
+        <circle cx="1006" cy="117" r="1" fill="#fff" class="ruse"></circle>
+        <text x="1006" y="117" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">РУСЕ</text>
+      </g>
+    
+    <g>
+        <circle cx="1405" cy="170" r="1" fill="#fff" class="tervel"></circle>
+        <text x="1405" y="170" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ТЕРВЕЛ</text>
+      </g>
+    
+       <g>
+        <circle cx="1585" cy="296" r="1" fill="#fff" class="balchik"></circle>
+        <text x="1585" y="296" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">БАЛЧИК</text>
+      </g>
+    
+       <g>
+        <circle cx="1549" cy="351" r="1" fill="#fff" class="varna"></circle>
+        <text x="1549" y="351" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ВАРНА</text>
+      </g>
+    
+        <g>
+        <circle cx="1523" cy="501" r="1" fill="#fff" class="obzor"></circle>
+        <text x="1523" y="501" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ОБЗОР</text>
+      </g>
+    
+       <g>
+        <circle cx="1501" cy="537" r="1" fill="#fff" class="nesebar"></circle>
+        <text x="1501" y="537" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">НЕСЕБЪР</text>
+      </g>
+    
+          <g>
+        <circle cx="1418" cy="602" r="1" fill="#fff" class="burgas"></circle>
+        <text x="1418" y="602" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">БУРГАС</text>
+      </g>
     
       
   </g>
