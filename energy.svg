@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1719" height="1064" fill="none" viewBox="0 0 1719 1064">
+  <g class="map_outline">
+    <path
+      fill="url(#a)"
+      d="M145.373 26.638c-9.05-8.94-45.031-33.442-60.593-24.833-15.563 8.609-43.045 63.242-67.547 75.825C5.76 83.52.569 113.925.015 142.859c-.472 24.608 10.622 28.595 10.926 38.74 5.96 13.686 25.827 14.569 25.827 41.389 0 41.813 11.258 51.323 38.41 58.276 54.302 23.509 59.931 69.203 87.082 81.785 38.04 17.628-22.185 44.7-41.389 87.414-12.166 27.058-70.196 12.913-93.374 44.369-6.968 10.574-8.883 49.312-6.953 77.811 1.555 22.966 19.774 21.81 26.158 30.794 17.88 25.165 5.297 24.171 0 38.74-4.239 11.655-45.633 21.191-42.714 35.098 5.629 26.82 55.958 94.698 115.889 102.314 36.271 4.609 31.125 67.547 52.647 90.725 29.436 31.7 8.278 32.118-5.96 44.7-11.39 10.066 7.285 56.951-8.277 108.276 6.291 14.57 37.426 15.42 57.613 11.59 14.639-2.78 28.476-3.31 39.403-20.86 10.957-17.602 19.366-2.27 32.449 0 25.826-16.559 57.734 1.27 69.202-3.31 79.202-31.685 93.283-9.44 104.963-31.46 23.178-43.707 41.058-13.427 77.48-18.874 21.862-3.269 46.899-16.555 51.985-11.257 39.734 41.389 61.717 78.271 81.454 69.531 49.336-21.851 26.489-7.94 53.309-7.94 26.82 0 46.082 44.57 73.176 50.66 32.449 7.28 55.501-7.06 71.851-13.25 68.209-25.83 123.543-7.59 145.688-19.53 25.17-13.58 57.54-33.952 29.47-74.174-42.05-60.262-31.79-77.811 13.25-67.547 66.56 15.174 33.77-36.091 83.1-36.091 22.62 0 20.09-22.405 22.52-37.416 15.23-20.529 55.63-13.244 93.04-20.529 22.19-16.957 32.78-27.411 45.03-34.767 11.31-6.782 15.57 16.887 39.41-.928 18.21-6.356 33.98 17.755 41.06 25.762 10.06 11.39 22.18 33.773 45.69 37.416 23.51 3.642 127.15-19.536 137.08-22.847 9.93-3.311-57.28-73.507-57.28-73.507-8.58-8.91-18.88-34.767-18.88-51.985-9.93-15.562-20.77-29.575-27.15-37.415-15.89-19.536-48.76 8.319-57.61-11.589-3.97-8.94 3.31-24.503 30.13-29.801 21.46-4.238 40.73-45.031 41.39-57.613 17.88-1.214 37.28 11.125 48.67 3.973 6.39-4.012-9.6-22.184 0-52.978 0-37.747-7.17-72.307 11.26-106.618 3.71-6.904-9.93-10.735-6.95-15.563 14.75-23.885 29.65 2.649 50.66-54.302 12.58-34.105 49-12.913 90.06-11.258 41.06 1.656 53.31-27.769 46.36-66.554-6.3-35.097-4.64-57.988-9.94-61.255-19.86-12.252-64.28-3.035-96.35-15.563-98.34-38.409-62.58-70.858-78.81-81.454-9.18-6-33.11 4.967-73.17-14.9-26.49 0-49.57 7.364-66.22 4.636-17.94-2.937-24.29-25.148-43.71-34.105-17.06-7.868-54.99-4.635-76.82-4.635-21.16 0-100 31.124-164.56 34.104-60.42 15.239-88.43 27.752-105.63 55.627-33.908 54.969-141.714 98.995-162.906 91.387-38.74-13.906-97.015-43.375-154.96-31.786-43.832 8.766-81.785-23.509-118.208-5.298-53.556 26.778-108.936-6.291-153.636-17.218-39.402-3.973-117.479-36.489-147.676-24.833-37.747 14.569-92.381 17.88-113.903 7.284-17.218-8.476-7.174-42.382 0-52.647 19.094-8.94 46.356-7.284 43.376-33.111-1.348-11.68-22.516-9.271-48.674-21.854Z"
+      class="map_outline_path"
+    />
+    <g class="map_gradove">
+   
+         <g>
+        <circle cx="145" cy="81" r="1" fill="#fff" class="vidin"></circle>
+        <text x="145" y="81" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ВИДИН</text>
+      </g>
+
+     <g>
+        <circle cx="72" cy="213" r="1" fill="#fff" class="belogradchik"></circle>
+        <text x="72" y="213" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">БЕЛОГРАДЧИК</text>
+      </g>
+      
+         <g>
+        <circle cx="229" cy="289" r="1" fill="#fff" class="montana"></circle>
+        <text x="229" y="289" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">МОНТАНА</text>
+      </g>
+      
+           <g>
+        <circle cx="203" cy="346" r="1" fill="#fff" class="berkovica"></circle>
+        <text x="203" y="346" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">БЕРКОВИЦА</text>
+      </g>
+      
+           <g>
+        <circle cx="373" cy="148" r="1" fill="#fff" class="kozlodui"></circle>
+        <text x="373" y="148" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">КОЗЛОДУЙ</text>
+      </g>
+      
+          <g>
+        <circle cx="619" cy="284" r="1" fill="#fff" class="pleven"></circle>
+        <text x="619" y="284" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ПЛЕВЕН</text>
+      </g>
+      
+         <g>
+        <circle cx="1006" cy="117" r="1" fill="#fff" class="ruse"></circle>
+        <text x="1006" y="117" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">РУСЕ</text>
+      </g>
+      
+           <g>
+        <circle cx="1359" cy="39" r="1" fill="#fff" class="silistra"></circle>
+        <text x="1359" y="39" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">СИЛИСТРА</text>
+      </g>
+      
+           <g>
+        <circle cx="905" cy="405" r="1" fill="#fff" class="veliko_tyrnovo"></circle>
+        <text x="905" y="405" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ВЕЛИКО ТЪРНОВО</text>
+      </g>
+      
+           <g>
+        <circle cx="1415" cy="368" r="1" fill="#fff" class="provadiq"></circle>
+        <text x="1415" y="368" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ПРОВАДИЯ</text>
+      </g>
+      
+         <g>
+        <circle cx="1468" cy="351" r="1" fill="#fff" class="devnq"></circle>
+        <text x="1468" y="351" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ДЕВНЯ</text>
+      </g>
+      
+            <g>
+        <circle cx="1549" cy="351" r="1" fill="#fff" class="varna"></circle>
+        <text x="1549" y="351" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ВАРНА</text>
+      </g>
+      
+          <g>
+        <circle cx="256" cy="542" r="1" fill="#fff" class="sofia"></circle>
+        <text x="256" y="542" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">СОФИЯ</text>
+      </g>
+      
+         <g>
+        <circle cx="396" cy="633" r="1" fill="#fff" class="ihtiman"></circle>
+        <text x="396" y="633" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ИХТИМАН</text>
+      </g>
+      
+           <g>
+        <circle cx="188" cy="781" r="1" fill="#fff" class="blagoevgrad"></circle>
+        <text x="188" y="781" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">БЛАГОЕВГРАД</text>
+      </g>
+      
+         <g>
+        <circle cx="193" cy="830" r="1" fill="#fff" class="simitli"></circle>
+        <text x="193" y="830" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">СИМИТЛИ</text>
+      </g>
+      
+        <g>
+        <circle cx="301" cy="846" r="1" fill="#fff" class="bansko"></circle>
+        <text x="301" y="846" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">БАНСКО</text>
+      </g>
+      
+         <g>
+        <circle cx="536" cy="717" r="1" fill="#fff" class="pazarjik"></circle>
+        <text x="536" y="717" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ПАЗАРДЖИК</text>
+      </g>
+      
+       <g>
+        <circle cx="656" cy="740" r="1" fill="#fff" class="plovdiv"></circle>
+        <text x="656" y="740" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ПЛОВДИВ</text>
+      </g>
+      
+       <g>
+        <circle cx="749" cy="1015" r="1" fill="#fff" class="zlatograd"></circle>
+        <text x="749" y="1015" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ЗЛАТОГРАД</text>
+      </g>
+      
+         <g>
+        <circle cx="908" cy="638" r="1" fill="#fff" class="stara_zagora"></circle>
+        <text x="908" y="638" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">СТАРА ЗАГОРА</text>
+      </g>
+      
+         <g>
+        <circle cx="1095" cy="545" r="1" fill="#fff" class="sliven"></circle>
+        <text x="1095" y="545" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">СЛИВЕН</text>
+      </g>
+      
+          <g>
+        <circle cx="1418" cy="602" r="1" fill="#fff" class="burgas"></circle>
+        <text x="1418" y="602" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">БУРГАС</text>
+      </g>
+      
+         <g>
+        <circle cx="1493" cy="694" r="1" fill="#fff" class="primorsko"></circle>
+        <text x="1493" y="694" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ПРИМОРСКО</text>
+      </g>
+      
+      
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="a" x1="-109" x2="1593.5" y1="19.5" y2="1024" class="a" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFC52F"/>
+      <stop offset="1" stop-color="#F2A624"/>
+    </linearGradient>
+  </defs>
+</svg>
