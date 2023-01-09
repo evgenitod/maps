@@ -7,6 +7,101 @@
     />
     <g class="map_gradove">
      
+      <g>
+        <circle cx="256" cy="542" r="1" fill="#fff" class="sofia"></circle>
+        <text x="256" y="542" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">СОФИЯ</text>
+      </g>
+      
+          <g>
+        <circle cx="378" cy="473" r="1" fill="#fff" class="botevgrad"></circle>
+        <text x="378" y="473" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">БОТЕВГРАД</text>
+      </g>
+
+  <g>
+        <circle cx="473" cy="425" r="1" fill="#fff" class="qblanica"></circle>
+        <text x="473" y="425" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ЯБЛАНИЦА</text>
+      </g>
+
+   <g>
+        <circle cx="80" cy="686" r="1" fill="#fff" class="kustendil"></circle>
+        <text x="80" y="686" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">КЮСТЕНДИЛ</text>
+      </g>
+      
+         <g>
+        <circle cx="396" cy="633" r="1" fill="#fff" class="ihtiman"></circle>
+        <text x="396" y="633" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ИХТИМАН</text>
+      </g>
+      
+          <g>
+        <circle cx="335" cy="686" r="1" fill="#fff" class="borovetz"></circle>
+        <text x="335" y="686" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">БОРОВЕЦ</text>
+      </g>
+      
+         <g>
+        <circle cx="370" cy="937" r="1" fill="#fff" class="goce_delchev"></circle>
+        <text x="370" y="937" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ГОЦЕ ДЕЛЧЕВ</text>
+      </g>
+
+  <g>
+        <circle cx="188" cy="781" r="1" fill="#fff" class="blagoevgrad"></circle>
+        <text x="188" y="781" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">БЛАГОЕВГРАД</text>
+      </g>
+      
+        <g>
+        <circle cx="464" cy="776" r="1" fill="#fff" class="venilgrad"></circle>
+        <text x="464" y="776" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ВЕЛИНГРАД</text>
+      </g>
+      
+         <g>
+        <circle cx="291" cy="830" r="1" fill="#fff" class="razlog"></circle>
+        <text x="291" y="830" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">РАЗЛОГ</text>
+      </g>
+      
+        <g>
+        <circle cx="639" cy="940" r="1" fill="#fff" class="smolqn"></circle>
+        <text x="639" y="940" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">СМОЛЯН</text>
+      </g>
+      
+       <g>
+        <circle cx="717" cy="974" r="1" fill="#fff" class="madan"></circle>
+        <text x="717" y="974" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">МАДАН</text>
+      </g>
+      
+           <g>
+        <circle cx="839" cy="957" r="1" fill="#fff" class="momchilgrad"></circle>
+        <text x="839" y="957" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">МОМЧИЛГРАД</text>
+      </g>
+      
+         <g>
+        <circle cx="749" cy="1015" r="1" fill="#fff" class="zlatograd"></circle>
+        <text x="749" y="1015" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ЗЛАТОГРАД</text>
+      </g>
+      
+         <g>
+        <circle cx="536" cy="717" r="1" fill="#fff" class="pazarjik"></circle>
+        <text x="536" y="717" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ПАЗАРДЖИК</text>
+      </g>
+      
+         <g>
+        <circle cx="656" cy="740" r="1" fill="#fff" class="plovdiv"></circle>
+        <text x="656" y="740" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ПЛОВДИВ</text>
+      </g>
+      
+        <g>
+        <circle cx="531" cy="768" r="1" fill="#fff" class="peshtera"></circle>
+        <text x="531" y="768" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ПЕЩЕРА</text>
+      </g>
+      
+         <g>
+        <circle cx="687" cy="792" r="1" fill="#fff" class="asenovgrad"></circle>
+        <text x="687" y="792" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">АСЕНОВГРАД</text>
+      </g>
+      
+        <g>
+        <circle cx="829" cy="914" r="1" fill="#fff" class="kyrjali"></circle>
+        <text x="829" y="914" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">КЪРДЖАЛИ</text>
+      </g>
+      
       
       
       
