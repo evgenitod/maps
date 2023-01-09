@@ -32,6 +32,27 @@
         <text x="396" y="633" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ИХТИМАН</text>
       </g>
       
+       <g>
+        <circle cx="908" cy="638" r="1" fill="#fff" class="stara_zagora"></circle>
+        <text x="908" y="638" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">СТАРА ЗАГОРА</text>
+      </g>
+      
+        <g>
+        <circle cx="1095" cy="545" r="1" fill="#fff" class="sliven"></circle>
+        <text x="1095" y="545" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">СЛИВЕН</text>
+      </g>
+      
+         <g>
+        <circle cx="707" cy="490" r="1" fill="#fff" class="aprilci"></circle>
+        <text x="707" y="490" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">АПРИЛЦИ</text>
+      </g>
+      
+      <g>
+        <circle cx="816" cy="476" r="1" fill="#fff" class="gabrovo"></circle>
+        <text x="816" y="476" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ГАБРОВО</text>
+      </g>
+      
+      
           <g>
         <circle cx="335" cy="686" r="1" fill="#fff" class="borovetz"></circle>
         <text x="335" y="686" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">БОРОВЕЦ</text>
@@ -102,8 +123,39 @@
         <text x="829" y="914" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">КЪРДЖАЛИ</text>
       </g>
       
+       <g>
+        <circle cx="647" cy="473" r="1" fill="#fff" class="troqn"></circle>
+        <text x="647" y="473" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ТРОЯН</text>
+      </g>
       
-      
+            <circle cx="647" cy="374" r="1" fill="#fff" class="lovech"></circle>
+        <text x="647" y="374" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ЛОВЕЧ</text>
+      </g>
+    
+       <g>
+        <circle cx="758" cy="425" r="1" fill="#fff" class="sevlievo"></circle>
+        <text x="758" y="425" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">СЕВЛИЕВО</text>
+      </g>
+    
+        <g>
+        <circle cx="619" cy="284" r="1" fill="#fff" class="pleven"></circle>
+        <text x="619" y="284" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ПЛЕВЕН</text>
+      </g>
+    
+     <g>
+        <circle cx="768" cy="307" r="1" fill="#fff" class="levski"></circle>
+        <text x="768" y="307" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ЛЕВСКИ</text>
+      </g>
+    
+       <g>
+        <circle cx="922" cy="384" r="1" fill="#fff" class="gorna_orqhovica"></circle>
+        <text x="922" y="384" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ГОРНА ОРЯХОВИЦА</text>
+      </g>
+    
+      <g>
+        <circle cx="905" cy="405" r="1" fill="#fff" class="veliko_tyrnovo"></circle>
+        <text x="905" y="405" text-anchor="middle" font-family="SofiaSansMedium" alignment-baseline="middle" fill="#fff" font-size="3rem">ВЕЛИКО ТЪРНОВО</text>
+      </g>
       
       
     </g>
