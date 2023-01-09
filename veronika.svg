@@ -52,8 +52,8 @@
   </g>
   <defs>
     <linearGradient id="a" x1="-109" x2="1593.5" y1="19.5" y2="1024" class="a" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFC52F"/>
-      <stop offset="1" stop-color="#F2A624"/>
+      <stop stop-color="#ad1215"/>
+      <stop offset="1" stop-color="#e12529"/>
     </linearGradient>
   </defs>
 </svg>
